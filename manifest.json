@@ -5,7 +5,7 @@
     "content_scripts": [
       {
         "matches": [""],
-        "js": ["Content.js"]
+        "js": ["blockUrls.js"]
       }
     ]
   }
